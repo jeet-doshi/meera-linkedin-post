@@ -1,0 +1,2 @@
+# Holds the Telegram token and Gemini key - never commit
+config.json
